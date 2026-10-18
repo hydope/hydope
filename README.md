@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syed
+# 👋 Hi, hydope is here
 
 I build AI tools that do the work — not demos, working software.
 
