@@ -31,6 +31,7 @@ ShortSmash is listed in curated awesome lists (merged PRs):
 - [ToolkitlyAI/awesome-ai-tools](https://github.com/ToolkitlyAI/awesome-ai-tools/pull/212)
 - [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers/pull/4267) — registry profile live on [tensorblock.co](https://tensorblock.co/mcp/servers/github-hydope-shortsmash-19af6b2a)
 - [sajadh76/awesome-AI-tools](https://github.com/sajadh76/awesome-AI-tools/pull/155)
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=shortsmash) — `io.github.hydope/shortsmash`, also on [PyPI](https://pypi.org/project/shortsmash/)
 
 …with more list PRs in review right now.
 
