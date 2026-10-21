@@ -36,7 +36,7 @@ ShortSmash is listed in curated awesome lists (merged PRs):
 
 ## 📊 Stats
 
-![hydope's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydope&show_icons=true&theme=radical)
+![hydope's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydope&show_icons=true&theme=radical&rank_icon=github)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydope&layout=compact&theme=radical)
 
 ---
