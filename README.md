@@ -24,6 +24,21 @@ The little actor that does your tasks. Remembers, schedules, browses, learns —
 
 Point it at any repo, get a running app. `npx vibe-run <repo-url>` — no setup, no config.
 
+## 📎 [chunkcite](https://github.com/hydope/chunkcite) — verifiable RAG citations
+![stars](https://img.shields.io/github/stars/hydope/chunkcite?style=flat-square) ![license](https://img.shields.io/github/license/hydope/chunkcite?style=flat-square) ![ci](https://github.com/hydope/chunkcite/actions/workflows/ci.yml/badge.svg)
+
+Structure-aware chunking for RAG: chunks at headings, tables kept whole, every chunk stamped with heading path and line range — then each claim is checked against its cited chunk, offline, no LLM judge, no API key.
+
+## 🔤 [GitNym](https://github.com/hydope/GitNym) — searchable names, actually available
+![stars](https://img.shields.io/github/stars/hydope/GitNym?style=flat-square)
+
+Generate project names and check them live on npm, PyPI, GitHub and domains — in the browser, no install. Live at https://hydope.github.io/GitNym/
+
+## 📈 [TrendGap](https://github.com/hydope/TrendGap) — repo ideas with the evidence shown
+![stars](https://img.shields.io/github/stars/hydope/TrendGap?style=flat-square)
+
+Snapshot repo ideas with growth evidence and the crowded competitors shown too, not just a score. Live at https://hydope.github.io/TrendGap/
+
 ## 🏆 Featured in
 
 ShortSmash is listed in curated awesome lists (merged PRs):
